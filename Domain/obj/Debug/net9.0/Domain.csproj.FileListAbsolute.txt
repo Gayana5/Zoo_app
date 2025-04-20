@@ -1,0 +1,12 @@
+/Users/gaane/RiderProjects/Zoo_app/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/gaane/RiderProjects/Zoo_app/Domain/bin/Debug/net9.0/Domain.dll
+/Users/gaane/RiderProjects/Zoo_app/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/gaane/RiderProjects/Zoo_app/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaane/RiderProjects/Zoo_app/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/gaane/RiderProjects/Zoo_app/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/gaane/RiderProjects/Zoo_app/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/gaane/RiderProjects/Zoo_app/Domain/obj/Debug/net9.0/Domain.dll
+/Users/gaane/RiderProjects/Zoo_app/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/gaane/RiderProjects/Zoo_app/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/gaane/RiderProjects/Zoo_app/Domain/obj/Debug/net9.0/ref/Domain.dll
+/Users/gaane/RiderProjects/Zoo_app/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
